@@ -1,0 +1,15 @@
+seaborn
+sympy
+ipython
+Django==1.7.7
+django-hitcount==1.1.0
+django-nested-inline==0.3.4
+pymysql
+jieba
+nltk
+snowballstemmer
+scikit-learn
+networkx
+wordcloud
+requests
+#gensim

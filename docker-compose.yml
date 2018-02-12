@@ -1,0 +1,10 @@
+version: '2.1'
+services:
+  python:
+    image: python-ubuntu
+    container_name: python
+    ports:
+      - "9527:22"
+    #source code container
+    volumes:
+      - ../../python:/projects
